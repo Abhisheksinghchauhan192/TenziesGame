@@ -9,7 +9,7 @@ A fun and addictive dice game built with **React** and bundled using **Vite** �
 ## 🔗 Live Demo
 
 Play the game here:  
-👉 [https://yourusername.github.io/tenzies-game](https://yourusername.github.io/tenzies-game)  
+👉 [Live](https://abhisheksinghchauhan192.github.io/TenziesGame/)  
 *(Replace with your actual deployment URL)*
 
 ---
